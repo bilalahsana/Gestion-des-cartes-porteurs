@@ -1,5 +1,10 @@
 # Gestion-des-cartes-porteurs
 
-Conception
+##Conception
 
-## UML diagrams
+### UML diagrams:
+UseCase diagaram ✔
+class diagaram ✔
+sequence diagaram ✔
+communication diagaram ✔
+
