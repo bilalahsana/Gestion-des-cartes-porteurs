@@ -1,5 +1,16 @@
 # Gestion-des-cartes-porteurs
 
-Conception
+<h2> Conception </h2>
 
-## UML diagrams
+<h3> UML diagrams: </h3>
+
+<ul>
+  <li>UseCase diagaram ✔</li>
+  <li>class diagaram ✔</li>
+  <li>sequence diagaram ✔</li>
+  <li>communication diagaram ✔</li>
+</ul>
+
+
+
+
