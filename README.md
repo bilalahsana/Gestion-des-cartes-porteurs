@@ -9,6 +9,8 @@
   <li>class diagaram ✔</li>
   <li>sequence diagaram ✔</li>
   <li>communication diagaram ✔</li>
+  <li>package diagaram ⛏</li>
+  <li>deployement diagaram ⛏</li>
 </ul>
 
 
